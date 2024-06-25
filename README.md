@@ -1,4 +1,3 @@
-
 ![Banner](.github/banner.jpg)
 
 ## Update: Edge v1.0.0 is here!  
